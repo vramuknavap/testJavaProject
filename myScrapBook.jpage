@@ -1,0 +1,12 @@
+Doer D = new Doer();
+Requester R = new Requester();
+Task T = new Task();
+D.toString()
+
+R.setRequesterName("Pavan");
+T.setTaskName("PickLunch");
+D.setDoerName("Kumar");
+
+R.getRequesterName()
+T.getTaskName()
+D.getDoerName()
